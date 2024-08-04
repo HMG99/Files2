@@ -1,0 +1,5 @@
+Ani,Amiryan,1999,88.9
+Hakob,Sargsyan,1992,64.7
+karen,Araqelyan,2006,77.6
+Movses,Harutyunyan,2002,88.4
+Eduard,Mnacakanyan,1994,79.5
